@@ -264,3 +264,5 @@ while True:
         DeCode = Decoder(Code, S_tepMap, MapDC)
         print("Your decoded text: " + DeCode)
         Built_List.clear()
+        
+        # Author: M == PAIREN
