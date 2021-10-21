@@ -239,6 +239,7 @@ while True:
                     try:
                         Not_Run = [Built_List[0]]
                     except:
+                        Not_Run = None
                         print("Error!!!")
                 Map = Built_List.copy()
                 Built_List.clear()
