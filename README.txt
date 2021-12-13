@@ -10,7 +10,7 @@ Step 5: copy your encoded text and enter 'q' to exit from program.
 Step 1: Run the program.
 Step 2: Enter '2'.
 Step 3: Enter encoded text.
-Step 4: Enter number of step(s), for example if your encoded text twice encoded, enter 2.
+Step 4: Enter number of steps, for example if your encoded text twice encoded, enter 2.
 Step 5: Verify that it has been decoded correctly.(if it is True write 'y' and if it is False write 'n')
 Step 6: Copy your decoded text and enter 'q' to exit from program.
 ------------------------------------- Decode with map -------------------------------------
