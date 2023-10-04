@@ -1,3 +1,5 @@
+![Python versions](https://img.shields.io/badge/Python-3.11.4-green)
+
 # Base_EN_DE_Coder
 You can encode and decode b85, a85, b64, b32, and b16 with this tool.
  
