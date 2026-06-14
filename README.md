@@ -19,7 +19,7 @@ You can encode and decode b85, a85, b64, b32, and b16 with this tool.
 - Step 2: Enter '2'.
 - Step 3: Enter encoded text.
 - Step 4: Enter number of steps, for example if your encoded text twice encoded, enter 2.
-- Step 5: Verify that it has been decoded correctly.(if it is True write 'y' and if it is False write 'n')
+- Step 5: Verify that it has been decoded correctly. (if it is True write 'y' and if it is False write 'n')
 - Step 6: Copy your decoded text and enter 'q' to exit from program.
  
  
