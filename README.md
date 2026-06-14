@@ -29,13 +29,10 @@ You can encode and decode b85, a85, b64, b32, and b16 with this tool.
 - Step 2: Enter '3'.
 - Step 3: Enter encoded text.
 - Step 4: Enter a map to decode your code like: b32, b16, r, b64, b85, r, a85. (r: reverse, b64: Base64, a85: Ascii85)
-
-" Reverse the build map to made the map for decoding. "
-
-- Step 6: Copy your decoded text and enter 'q' to exit from program.
+- Step 5: Copy your decoded text and enter 'q' to exit from program.
  
  
 ### HINT
-
+__Reverse the build map to made the map for decoding.__
 - When you enter 'n' to verify the decoder, the program removes the last decoder. (If you enter None it's True for program.)
 - You can enter None for number of step(s). (Default steps = 10)
